@@ -1,22 +1,12 @@
-# Calendar
 
-Link da page [calendar-ashen.vercel.app](https://calendar-ashen.vercel.app/)
+## Calendar
 
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" /> 
+About the code: <br>
+The code defines a dynamic JavaScript calendar module called dycalendar that creates and displays a monthly or daily calendar in HTML. It uses an IIFE (Immediately Invoked Function Expression) to encapsulate variables and functions, ensuring they do not pollute the global scope. The code includes functions to generate tables of months, highlight specific dates, navigate between months with buttons, and get details for a particular year, month, and day. Additionally, it handles click events for user interaction.
 
-:mortar_board: Autora
+## Page Link 
+https://calendar-livialim.vercel.app/
 
-<table align="center">
-    <tr>
-        <td align="center">
-            <a href="https://github.com/livialim">
-                <img src="https://i.imgur.com/u0yGzKI.gif" width="500px;" alt="Image" />
-                <br />
-                <sub><b>@livialim</b></sub>
-            </a>
-        </td>    
-    </tr>
-</table>
 <h4 align="center">
-   Feito com 💜 by  <a href="https://www.linkedin.com/in/livia-lima-910b671b4/" target="_blank"> Livia Lima </a>
+   Made with 💜 by Livia
 </h4>
